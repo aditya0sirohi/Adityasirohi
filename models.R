@@ -1,5 +1,5 @@
 ## R-script  running / training each model and using the best one to predict "classe" with the test dataset
-## For the r-markdown report go here: 
+## For the rpubs report go here: https://rpubs.com/bzhang93/coursera-machine-learning-project
 
 # libraries
 library(lattice)
